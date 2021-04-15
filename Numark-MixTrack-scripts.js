@@ -1,7 +1,7 @@
 function NumarkMixTrack() {}
 
 
-NumarkMixTrack.init = function(id) {	// called when the MIDI device is opened & set up
+NumarkMixTrack.init = function(id) {	// called when the MIDI device is opened 
 	
 NumarkMixTrack.id = id;	// Store the ID of this device for later use
 	
